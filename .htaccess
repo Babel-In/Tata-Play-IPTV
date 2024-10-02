@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^([^/]+)\.mpd$ mpd.php?id=$1 [QSA,L]
+RewriteRule ^([^/]+)\.key$ key.php?id=$1 [QSA,L]
+RewriteRule ^([0-9]+)/dash/([^/]+)\.(dash|m4s)/?$ restream.php?id=$1&data=$2.$3 [L,QSA]
