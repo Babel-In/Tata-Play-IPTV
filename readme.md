@@ -6,7 +6,7 @@
 - 1st download and install KSWEB apk and open it.
 - Download this repo 
 ```bash
-https://github.com/Babel-In/Tata-Play-IPTV/
+https://github.com/Babel-In/Tata-Play-IPTV/releases/download/Tata-Play/Tata-Play-IPTV-babel-IN.zip
 ```
 - Extract the files in
 ```bash
