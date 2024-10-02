@@ -2,9 +2,6 @@
 
 ![Logo](https://static.wikia.nocookie.net/logopedia/images/8/87/Tata_Play_Logo_Animation.gif/revision/latest/scale-to-width-down/250?cb=20220127034622)
 
-## Author
-- [Babel IN](https://discord.com/invite/xxEcRuqZK2)
-
 ## How to use in localhost Android/Andorid TV
 - 1st download and install KSWEB apk and open it.
 - Download this repo 
